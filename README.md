@@ -40,7 +40,7 @@ form validation just checks to make sure the user entered the right specs, such 
 
 1. In 1-2 sentences, define end to end testing.
 
-End to End testing tests everything the user can possibly do.
+End to End testing tests everything the user can possibly do..
 
 ## Instructions
 
